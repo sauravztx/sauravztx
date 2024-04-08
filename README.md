@@ -8,7 +8,7 @@ About Me
 
 My Skills
 - Frontend: HTML, CSS, JavaScript, Bootstrap
-- Backend: [Mention backend technologies you're familiar with]
+- Backend: SQL, MonogoDB, Nodejs
 - Data Structures & Algorithms: Proficient in DSA concepts
 - Version Control: Git, GitHub
 
